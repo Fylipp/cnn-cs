@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MlpCs", "MlpCs\MlpCs.csproj", "{38D17068-D514-4972-9F10-DD727BD834D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MlpCs.Tests", "MlpCs.Tests\MlpCs.Tests.csproj", "{D1E87293-C6BE-4ADE-9273-EA19DE411C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D17068-D514-4972-9F10-DD727BD834D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D17068-D514-4972-9F10-DD727BD834D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D17068-D514-4972-9F10-DD727BD834D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D17068-D514-4972-9F10-DD727BD834D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E87293-C6BE-4ADE-9273-EA19DE411C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E87293-C6BE-4ADE-9273-EA19DE411C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E87293-C6BE-4ADE-9273-EA19DE411C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E87293-C6BE-4ADE-9273-EA19DE411C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+language: csharp
+solution: mlp-cs.sln
+before_install:
+  - sudo apt-get install nunit-console
+before_script:
+  - nuget restore mlp-cs.sln
+after_script:
+  - nunit-console MlpCs.Tests/bin/Release/MlpCs.Tests.dll
+  
